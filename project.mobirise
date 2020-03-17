@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-17_1204",
+    "name": "Français avec Alina",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -37,16 +37,23 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 1,
+    "uniqCompNum": 2,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/icons8-croissant-frances-64-64x64.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "FR avec Alina",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
